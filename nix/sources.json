@@ -262,11 +262,11 @@
         "owner": "FlexibleEngineCloud",
         "repo": "terraform-provider-flexibleengine",
         "rev": "7a397b6f1ffb1480eb8d2cec000b0f67aa94d377",
-        "sha256": "1idvvvw309ql7i2cmhrdwxp4f7bxpm0cm0pwqyc77mnvy9l111r9",
+        "sha256": "0cy5sc28ki347ma1cg347i0wbpm8iiahjcc6312mp9k3rajmkxfw",
         "type": "tarball",
-        "url": "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/archive/v1.19.1.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/v<version>.tar.gz",
-        "version": "1.19.1"
+        "url": "https://github.com/FlexibleEngineCloud/terraform-provider-flexibleengine/archive/7a397b6f1ffb1480eb8d2cec000b0f67aa94d377.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<version>.tar.gz",
+        "version": "7a397b6f1ffb1480eb8d2cec000b0f67aa94d377"
     },
     "terraform-provider-huaweicloud": {
         "branch": "master",
