@@ -159,10 +159,10 @@
         "homepage": null,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "4543448b747a662936b774379714cfe2553f38dd",
-        "sha256": "0cp6lk1zi4pgmnr7wc4qg5dp1gx9ggcjx22vqvwhyss6543lf388",
+        "rev": "17da23948965c679b586f2996bb5ee3c322f7b5c",
+        "sha256": "1xfs6lbfh4zqi0qb0bq4lks1d08bdlqh7wdcjad53g4i9c57xa9x",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/4543448b747a662936b774379714cfe2553f38dd.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/17da23948965c679b586f2996bb5ee3c322f7b5c.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "safe": {
@@ -280,19 +280,6 @@
         "url": "https://github.com/huaweicloud/terraform-provider-huaweicloud/archive/v1.22.2.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/v<version>.tar.gz",
         "version": "1.22.2"
-    },
-    "terraform-provider-keycloak": {
-        "branch": "master",
-        "description": "Terraform provider for Keycloak ",
-        "homepage": "https://registry.terraform.io/providers/mrparkers/keycloak/latest/docs",
-        "owner": "mrparkers",
-        "repo": "terraform-provider-keycloak",
-        "rev": "8107493195d5364f010e320faff2cc708a5dcb9d",
-        "sha256": "1msxxbrcwh83czsrydq4bk4p38zrx9s1hrjryh3xf1l55lb6plr1",
-        "type": "tarball",
-        "url": "https://github.com/mrparkers/terraform-provider-keycloak/archive/v2.3.0.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/v<version>.tar.gz",
-        "version": "2.3.0"
     },
     "terraform-provider-kubectl": {
         "branch": "master",
